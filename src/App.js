@@ -1,9 +1,10 @@
 import React from 'react';
-import style from './styles/app.module.scss';
 import { Shop } from './pages/shop/Shop';
+import { Header } from './components/header/Header';
 const App = () => {
   return (
-    <div className={style}>
+    <div>
+      <Header />
       <Shop />
     </div>
   );
