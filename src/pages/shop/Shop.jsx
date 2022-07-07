@@ -1,9 +1,9 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Menu } from '../../components/api/Menu';
 import style from './styles/style.module.scss';
-export const Shop = () => {
-    const [menu, setMenu] = useState(Menu);
 
+export const Shop = () => {
+    const menu = Menu;
 
     return (
         <main className={style.container}>

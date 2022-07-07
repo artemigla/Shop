@@ -1,0 +1,16 @@
+.navigation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 12px;
+}
+
+.link {
+    text-decoration: none !important;
+    color: white;
+    margin-left: 15px;
+
+    &:hover {
+        transform: scale(1.2);
+    }
+}
