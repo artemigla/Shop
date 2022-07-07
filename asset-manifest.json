@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Shop/static/css/main.63832e39.css",
-    "main.js": "/Shop/static/js/main.70819a30.js",
+    "main.css": "/Shop/static/css/main.3099286a.css",
+    "main.js": "/Shop/static/js/main.7835410a.js",
     "static/media/Hamburger.png": "/Shop/static/media/Hamburger.2bdb34040e26ced9ce91.png",
     "static/media/rollchicken.png": "/Shop/static/media/rollchicken.4110393f1cc165e0a8e5.png",
     "static/media/Double-cheeseburger.png": "/Shop/static/media/Double-cheeseburger.94b94dce3e935d6944f2.png",
@@ -11,12 +11,13 @@
     "static/media/ShrimpRoll.png": "/Shop/static/media/ShrimpRoll.27d1259c1311c0181b48.png",
     "static/media/Cheeseburger.png": "/Shop/static/media/Cheeseburger.d5d908c2f55650e4c974.png",
     "static/media/Royal_Cheese.png": "/Shop/static/media/Royal_Cheese.2ef57159ee1fa82cac93.png",
+    "static/media/shopping-cart.svg": "/Shop/static/media/shopping-cart.404548cd72bc030b9a3f3ac080ac210f.svg",
     "index.html": "/Shop/index.html",
-    "main.63832e39.css.map": "/Shop/static/css/main.63832e39.css.map",
-    "main.70819a30.js.map": "/Shop/static/js/main.70819a30.js.map"
+    "main.3099286a.css.map": "/Shop/static/css/main.3099286a.css.map",
+    "main.7835410a.js.map": "/Shop/static/js/main.7835410a.js.map"
   },
   "entrypoints": [
-    "static/css/main.63832e39.css",
-    "static/js/main.70819a30.js"
+    "static/css/main.3099286a.css",
+    "static/js/main.7835410a.js"
   ]
 }
