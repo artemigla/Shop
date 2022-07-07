@@ -1,8 +1,10 @@
 import React from 'react';
-import './App.css';
+import style from './styles/app.module.scss';
+import { Shop } from './pages/shop/Shop';
 const App = () => {
   return (
-    <div>
+    <div className={style}>
+      <Shop />
     </div>
   );
 }
